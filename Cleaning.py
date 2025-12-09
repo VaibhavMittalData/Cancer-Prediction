@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from sklearn.preprocessing import StandardScaler,LabelEncoder
+
 
 df = pd.read_csv(r"Project.py/lung_cancer_dataset.csv")
 
